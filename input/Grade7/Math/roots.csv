@@ -1,0 +1,36 @@
+question,option1,option2,option3,option4,answer,explanation
+What is the least number which should be subtracted from 326 to make it a perfect square?,2,20,18,14,2,"The closest perfect square less than 326 is 324 (18²), and 326 - 324 = 2."
+What is the digit at the one’s place in the square of the number 2934?,4,6,1,5,6,"The square of a number ending in 4 ends in 6, so 2934² ends in 6."
+The value of √0.121 up to three places of decimal is,0.011,0.11,0.347,1.1,0.347,√0.121 ≈ 0.347.
+The value of √0.064 up to three places of decimal is,0.008,0.08,0.252,0.8,0.252,√0.064 ≈ 0.252.
+The value of √(0.16 / 0.4) is,0.02,0.2,0.63,None of these,0.63,"0.16 ÷ 0.4 = 0.4, √0.4 ≈ 0.632."
+Which of the following numbers is a perfect square?,100,100000,25000,40,100,"100 = 10², a perfect square."
+Which of the following numbers is a square of even number?,81,100,289,6561,100,100 = 10² and 10 is even.
+A welfare association collected ₹52900. If each paid as many rupees as there were students…,230,225,220,245,230,Let x² = 52900 → x = 230.
+The sum of 1 + 3 + 5 + ... + 17 is,64,85,81,100,81,It's the sum of first 9 odd numbers = 9² = 81.
+√6084 =,78,76,84,874,78,78 × 78 = 6084.
+The value of √(9/16) is,1 2/3,2/5,1 1/4,3/4,3/4,√(9/16) = √9 / √16 = 3/4.
+The square root of 0.0009 is,0.3,0.03,0.003,3,0.03,√0.0009 = 0.03.
+√175.2976 =,13.24,12.14,12.24,13.14,13.24,√175.2976 ≈ 13.24.
+√6084 =,78,76,84,874,78,78 × 78 = 6084.
+The value of √1(9/16) is,1 2/3,2/5,1 1/4,3/4,3/4,√(9/16) = √9 / √16 = 3/4.
+The square root of 0.0009,0.3,0.03,0.003,3,0.03,√0.0009 = 0.03.
+√175.2976 =,13.24,12.14,12.24,13.14,13.24,√175.2976 ≈ 13.24.
+The value of √(0.289 / 0.00121),17/11,170/11,70/11,17/110,70/11,0.289 ÷ 0.00121 = 239.669 ≈ 70²/11² ⇒ √239.669 ≈ 70/11.
+The value of √147 × √243,63,189,198,178,189,√147 × √243 = √(147×243) = √35721 = 189.
+Sum of the first n odd natural numbers is,2n + 1,n²,n² - 1,2n² + 1,n²,Sum of first n odd numbers = n².
+Which of the following numbers is a perfect square?,141,196,124,222,196,196 = 14².
+The value of √45 × √20,18,30,20,60,30,√45 × √20 = √(45×20) = √900 = 30.
+A number having ____ at the unit's place is never a perfect square,"1, 4","2, 3, 7, 8","6, 9","1, 4, 6, 9","2, 3, 7, 8","Perfect squares never end in 2, 3, 7, or 8."
+The number of zeros at the end of a perfect square is always,odd,even,odd prime,None,even,Number of trailing zeros in perfect squares is always even.
+How many natural numbers lie between squares of 13 and 14?,26,24,25,40,26,"14² = 196, 13² = 169 → 196 - 169 - 1 = 26 natural numbers"
+The square root of 1584.04 is,39.8,41.8,43.8,45.8,39.8,"√1584.04 = 39.8"
+"If √1369 + √0.0615 + x = 37.25, then x is equal to",10¹,10⁻²,10⁻³,10,10⁻²,"√1369 = 37, √0.0615 ≈ 0.25 → 37 + 0.25 + x = 37.25 ⇒ x = 0.00...1 = 10⁻²"
+"The smallest square number divisible by each one of the numbers 8, 9 and 10 is",360,480,720,3600,3600,"LCM of 8, 9, 10 = 360 → Next perfect square divisible by 360 is 3600"
+The least number which must be added to 306452 to make it a perfect square is,643,554,464,644,464,"Perfect square after 306452 is 306916 ⇒ 306916 - 306452 = 464"
+The square of 19 as the sum of two consecutive integers is,"179 + 180","180 + 181","182 + 183","None of these","180 + 181","19² = 361 → 180 + 181 = 361"
+The square root of 0.069696 is,.0264,2.64,0.264,26.4,0.264,"√0.069696 = 0.264"
+The value of (√225/729 - √25/144) + √16/81 is,1/48,5/48,5/16,1/16,5/16,"√(225/729) = 15/27, √(25/144) = 5/12, √(16/81) = 4/9 → (15/27 - 5/12 + 4/9) = 5/16"
+The square root of (272)² - (128)² is,220,200,240,256,240,√(a² - b²) = √[(272 + 128)(272 - 128)] = √(400×144) = √57600 = 240
+Which of the following are Pythagorean triplets?,"20, 99, 101","6, 8, 10","5, 12, 13","5, 10, 13","5, 12, 13","5² + 12² = 13² → 25 + 144 = 169"
+"Assertion: The numbers 152, 7693, 14357, 798328 are not perfect squares. \nReason: A number having 2, 3, 7 or 8 at unit’s place is never a perfect square.",Both A and R are true and R is correct explanation,Both A and R are true but R is not correct explanation,A is true but R is false,A is false but R is true,Both A and R are true and R is correct explanation,"Perfect squares never end in 2, 3, 7, 8. All given numbers end in one of these digits."

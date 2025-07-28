@@ -1,0 +1,21 @@
+question,option1,option2,option3,option4,answer,explanation
+What is the closest perfect square to 150?,144,169,121,196,169,"12² = 144, 13² = 169.  169 is closer to 150 than 144."
+The square root of 0.0025 is:,0.05,0.5,0.005,5,0.05,√0.0025 = √(25/10000) = 5/100 = 0.05
+"If a number ends in 9, what digit can its square end in?",1,4,6,9,1,"The last digit of the square of a number ending in 9 will always be 1 (e.g., 9² = 81, 19² = 361, 29² = 841)."
+Which of the following is NOT a perfect square?,121,256,361,400,400,400 is a perfect square because 20² = 400
+What is √625?,20,25,30,35,25,25 x 25 = 625
+Estimate √200 to the nearest whole number.,12,13,14,15,14,14² = 196 and 15² = 225. 196 is closer to 200 than 225.
+"Which number, when squared, results in 10000?",100,1000,10,10000,100,100 x 100 = 10000
+What is the value of √(1/16)?,1/8,1/4,1/2,4,1/4,The square root of 1/16 is 1/4 because (1/4) x (1/4) = 1/16
+The area of a square is 81 cm². What is the length of one side?,7 cm,8 cm,9 cm,10 cm,9 cm,√81 = 9
+Find the number of integers between 1 and 100 that are perfect squares.,8,9,10,11,9,"The perfect squares are 1, 4, 9, 16, 25, 36, 49, 64, 81, 100. There are 10, but we are looking for number of integers between 1 and 100, so only 9."
+What is the closest perfect square to 70?,64,81,49,100,81,81 (9²) is closer to 70 than 64 (8²).
+The square root of 0.0016 is:,0.04,0.4,0.004,4,0.04,√0.0016 = √(16/10000) = 4/100 = 0.04
+Which of the following is a perfect square?,121,143,150,168,121,121 = 11²
+"If x² = 289, then x is:",13,17,16,19,17,√289 = 17
+The number of integers between 10² and 12² is:,24,23,43,44,43,12² - 10² -1 = 144 - 100 -1 = 43
+What is the square root of 625?,20,25,30,35,25,√625 = 25
+Which number ends in 9 when squared?,13,22,37,44,37,37² = 1369
+Estimate √10:,2.5,3,3.5,4,3,"3² = 9 and 4² = 16, so √10 is closer to 3."
+What is the value of √(1/25)?,1/5,5,1/10,10,1/5,√(1/25) = √1 / √25 = 1/5
+"If the area of a square is 484 square cm, what is its side length?",12 cm,22 cm,11 cm,24 cm,22 cm,√484 = 22 cm
