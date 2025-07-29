@@ -22,9 +22,27 @@ st.set_page_config(page_title="Quiz App for Grades 5 & 7", layout="centered")
 BASE_PATH = "input"
 GEN_PATH = "generated"
 
-# === Sidebar Navigation ===
-st.sidebar.title("Navigation")
-main_page = st.sidebar.radio("Go to", ["About", "Subjects", "Generate Extra Questions"], index=1)  # Default to "Subjects"
+# === Login Function ===
+def check_login():
+    if "logged_in" not in st.session_state:
+        st.session_state["logged_in"] = False
+        st.session_state["login_error"] = ""
+
+    if not st.session_state["logged_in"]:
+        st.title("Login to Quiz App")
+        username = st.text_input("Username", placeholder="Enter username")
+        password = st.text_input("Password", type="password", placeholder="Enter password")
+        if st.button("Login"):
+            if username == "smiley" and password == "1234":
+                st.session_state["logged_in"] = True
+                st.session_state["login_error"] = ""
+                st.rerun()  # Rerun to show main app
+            else:
+                st.session_state["login_error"] = "Invalid username or password. Please try again."
+        if st.session_state["login_error"]:
+            st.error(st.session_state["login_error"])
+        return False
+    return True
 
 # === Utility Functions ===
 def get_subjects():
@@ -305,6 +323,12 @@ def submit_quiz(quiz_key):
     st.session_state[quiz_key]["submitted"] = True
 
 # === Main App Logic ===
+if not check_login():
+    st.stop()  # Stop rendering if not logged in
+
+st.sidebar.title("Navigation")
+main_page = st.sidebar.radio("Go to", ["About", "Subjects", "Generate Extra Questions"], index=1)  # Default to "Subjects"
+
 if main_page == "About":
     st.subheader("📘 About This Quiz App")
     st.markdown("""
